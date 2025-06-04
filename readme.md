@@ -2,6 +2,7 @@
 
 An intelligent learning platform leveraging LLM-powered recommendations to adapt dynamically to student performance and interests.
 
+
 ## Architecture
 
 ### Core Components
@@ -130,3 +131,7 @@ An intelligent learning platform leveraging LLM-powered recommendations to adapt
 
 * **Curriculum ontology construction:** Build a structured map of concepts, prerequisites, and learning paths—link each lesson and topic to foundational and advanced concepts.
 * **Concept graph integration:** Incorporate a graph-based representation (nodes = concepts, edges = prerequisite relationships) into both the Learning Environment and LLM prompts, allowing more precise gap identification and scaffolding.
+
+
+
+

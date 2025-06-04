@@ -1,0 +1,10 @@
+# Core dependencies
+python-dotenv>=1.0.0  # For environment variable management
+openai       # For LLM API integration
+tiktoken     # For token counting in LLM requests
+
+# Data handling and utilities
+dataclasses     # For data model definitions
+typing        # For type hints
+asyncio      # For async operations
+
